@@ -6,9 +6,9 @@
  * and their values can be any type of data supported by JavaScript, 
  * including arrays and even other objects.
  * 
- * ✨ We use dot notation to move beetween leves of the object and reference the property.
+ * ✨ We use dot notation to move between leves of the object and reference the property.
  * 
- * 🧠 Excercise:
+ * 🧠 Challenge:
  * 
  * Here we've defined an object userActivity, which includes another object nested within it. 
  * Set the value of the online key to 45.

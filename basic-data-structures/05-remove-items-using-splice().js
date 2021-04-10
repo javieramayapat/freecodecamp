@@ -1,6 +1,8 @@
 /**
  * 📑 Notes:
  * 
+ * splice() allows us to do just that: remove any number of consecutive elements from anywhere in an array.
+ * 
  * ✨ splice() allows us to do just that: remove any number of consecutive elements from anywhere in an array.
  * 
  * 📍 splice() can take up to 3 parameters, but for now, we'll focus on just the first 2.
