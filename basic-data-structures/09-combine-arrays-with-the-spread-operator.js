@@ -8,7 +8,6 @@
  * but this only allows us to combine arrays at the end of one, and at the start of another.
  * 
  *🧠 Challenge: 
-
  * We have defined a function spreadOut that returns the variable sentence. 
  * Modify the function using the spread operator so that it returns the array 
  * ['learning', 'to', 'code', 'is', 'fun'].
