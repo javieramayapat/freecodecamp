@@ -9,8 +9,7 @@
  * 📍 This uses dot notation:
  * person.edad = 15;
  * 
- * This use Bracket Notation:
- * 
+ * ✨ This use Bracket Notation:
  * 
  * 📍 Bracket notation:
  * required if your property has a space in it or if you want to use a variable to name the property. 
@@ -23,7 +22,7 @@
  * const eyes = 'eye color';
  * tekkenCharacter[eyes] = 'brown';
  * 
- * 🧠 Excercise:
+ * 🧠 Challenge:
  * 
  * A foods object has been created with three entries. 
  * Using the syntax of your choice, add three more entries to it: 
@@ -52,6 +51,6 @@ console.log(foods);
     plums: 28,
     bananas: 13,
     grapes: 35,
-    strawberries: 27 
+    strawberries: 27
 }
 */

@@ -1,7 +1,7 @@
 /**
  * 📑 Notes: 
  * 
- * 📍One of the most powerful features when thinking of arrays as data structures, 
+ * 📍 One of the most powerful features when thinking of arrays as data structures, 
  * is that arrays can contain, or even be completely made up of other arrays
  * 
  * 🤯 In this way, an array can very quickly become very complex data structure, known as a multi-dimensional, or nested array. 
@@ -9,7 +9,7 @@
  * 💡 We can still very easily access the deepest levels of an array this complex with bracket notation:
  * console.log(nestedArray[2][1][0][0][0]);
  * 
- * 🧠 Excercise:
+ * 🧠 Challenge:
  * 
  * We have defined a variable, myNestedArray, set equal to an array. 
  * Modify myNestedArray, using any combination of strings,
